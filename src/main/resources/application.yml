@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:sqlserver://db-server-bootcamp.database.windows.net:1433;database=Simulador;sendStringParametersAsUnicode=false;
+    username: "appuser"
+    password: "P@ssword"
+    driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
+
